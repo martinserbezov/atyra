@@ -14,6 +14,6 @@ Once installation is complete, use the available settings in the WordPress Custo
 * Theme: https://martinserbezov.com/themes/atyra/
 * Demo: https://martinserbezov.com/atyra-demo/
 
----
+-
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/martinserbezov)
