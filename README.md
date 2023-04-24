@@ -11,7 +11,6 @@ Since **Atyra** is a child theme of the Storefront, you need to install the Stor
 ## Setup and Configuration
 Once installation is complete, use the available settings in the WordPress Customizer.
 ## Links
-* Theme: https://martinserbezov.com/themes/atyra/
 * Demo: https://martinserbezov.com/atyra-demo/
 
 ---
